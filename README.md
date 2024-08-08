@@ -28,7 +28,7 @@ pip install pyotp qrcode[pil] pillow
 
 ## Installation:
 Clone the repository using `git`:
-``bash
+```bash
 git clone https://github.com/James7688/TOTP-App.git
 ```
 Navigate into the project directory:
